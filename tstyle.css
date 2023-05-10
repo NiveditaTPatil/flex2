@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    margin: 4px 4px;
+    height: 250px;
+    border: 5px solid rgb(20, 20, 20);
+}
+.idol{
+    display: flex;
+   justify-content:left;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
